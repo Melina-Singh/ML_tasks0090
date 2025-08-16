@@ -1,0 +1,6 @@
+# Project-specific environment directory
+kenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
